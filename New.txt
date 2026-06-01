@@ -1,3 +1,5 @@
 First text in file
 
 Text from login branch
+
+New Text from login branch
