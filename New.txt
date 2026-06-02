@@ -2,6 +2,7 @@ My first main data
 
 New change2
 
+<<<<<<< HEAD
 This is data from feature/login-setup  test
 
 Another change2
@@ -9,3 +10,6 @@ Another change2
 Another change from feature/login-setup test
 
 Last change2
+=======
+Another change from feature/login-setup
+>>>>>>> 32c80cb79bdabe485f000827559c7f676f6ca30a
